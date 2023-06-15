@@ -1,0 +1,16 @@
+o Git, funciona para um controle de versões do programa a ser desenvolvido, compartilhando as versões do codigo,
+com outras pessoas que possuem acesso a ele ou que estejam trabalhando com ele.
+
+O Git permite armazenamento e acesso a um histórico de modificações do codigo que estiver usando.
+
+O Git bash como propt de comando, tambem utiliza comando do linux e mac.
+
+comandos: 
+-> git --version => Verificar versão do git
+-> cd Desktop/Programação/Alura/Alura/ => Selecionar pasta do repoisitório
+-> ls => Lista de arquivos na pasta
+-> git init => Iniciar o git dentro daquela pasta para ser usada como o repositório geral
+-> git status => Verifica o status do git, o que esta faltando fazer upload e o que ja esta feito, alem das
+"branch"s presentes nele
+
+
